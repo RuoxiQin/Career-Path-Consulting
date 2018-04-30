@@ -1,7 +1,5 @@
 # Career-Path-Consulting
 
-Career Path Consulting
-
 Have you ever experienced when you know your career goal, but don't know how to achieve it? Have you had a hard time choosing a career path and didn't know which one leads to what you want? I propose a project to use the power of data to solve this problem and provide advice for people making their career decisions.
 
 I use the LinkedIn profile dataset which records the education, experience and current positions of over millions of people. We can either use the data scraped by others or we can scrap the data by ourselves. To do the consulting, we also need the user's LinkedIn profile. We can get this data using the LinkedIn profile API.
